@@ -10,7 +10,12 @@ h1 {
  width: 100%;
  display: block;
 }
-
+h1:hover {
+ color: hotpink;
+ text-align: center;
+ width: 100%;
+ display: block;
+}
 a {
  text-decoration: none;
  color: black;
@@ -29,3 +34,7 @@ a {
  margin: 10px;
  border: 2px solid midnightblue;
 }
+.assign img:hover {
+ width: 200px;
+ margin: 10px;
+ borde
